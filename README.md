@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <title>Ziming LIU | Zhejiang University</title>
@@ -18,4 +19,28 @@
 
     <link rel="stylesheet" href="./assets/css/style.css">
   </head>
+
+
+  
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        <a class="image avatar"><img src="./assets/img/photo3.jpg" alt="avatar" onContextMenu="return false" /></a>
+        <h1>Ziming CHEN</h1> 
+        Assistant Professor
+        <br>
+        
+        Zhejiang University
+        
+        <br>
+        z.liu@zju.edu.cn
+        <br>
+        <br>
+        
+
+      </header>
+
+  </body>
+  
 </html>
