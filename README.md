@@ -27,7 +27,7 @@
       <header>
         
         <a class="image avatar"><img src="./assets/img/photo3.jpg" alt="avatar" onContextMenu="return false" /></a>
-        <h1>Ziming CHEN</h1> 
+        <h1>Ziming LIU</h1> 
         Assistant Professor
         <br>
         
@@ -41,6 +41,5 @@
 
       </header>
 
-  </body>
-  
+</body>  
 </html>
